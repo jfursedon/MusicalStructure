@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="title_home">Home</string>
+    <string name="title_album">Albums</string>
+    <string name="title_artists">Artists</string>
+    <string name="title_songs">Songs</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="description_home">This box would have information about latest releases and tour dates from favourite artists</string>
+</resources>
